@@ -1,0 +1,21 @@
+body{ /* changed the font style and font size of whole body*/
+    background-color:lightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large
+}
+h2{
+    color:lightseagreen;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 300%;
+}
+
+
+.para1{          /* we can change paragraph colour,style,size using class name*/
+    color:darkmagenta;  
+}
+
+
+.para2{
+    color:darkred;  
+}
+
