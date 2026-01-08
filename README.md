@@ -1,2 +1,2 @@
-## A CSS Animation
-Pushing every animation from basic to advanced which i am learning
+## CSS Animations Repo
+Pushing every animation from basic to advance which i am learning
